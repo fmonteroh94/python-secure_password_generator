@@ -1,8 +1,10 @@
-# Generador de Contraseñas Seguras
+# 🔐 Generador de Contraseñas Seguras
 
-Este es un generador de contraseñas con una interfaz gráfica amigable construida con Tkinter. Permite crear contraseñas seguras personalizadas según las preferencias del usuario.
+## 📌 Descripción
 
-## Características
+Este es un generador de contraseñas con una interfaz gráfica amigable construida con Tkinter. Permite crear contraseñas seguras personalizadas según las preferencias del usuario en base a la longitud y tipo de carácteres.
+
+## ✨ Características
 
 ✅ Interfaz gráfica moderna con tema oscuro.
 
@@ -12,34 +14,30 @@ Este es un generador de contraseñas con una interfaz gráfica amigable construi
 
 ✅ Generación de contraseñas seguras con solo un clic.
 
-## Requisitos
+## 🛠 Requisitos
 
 Asegúrate de tener instalado Python 3.x en tu sistema.
 
-## Instalación
-
-Clona este repositorio y accede a la carpeta del proyecto:
-
-git clone https://github.com/tu-usuario/python-secure_password_generator.git
-cd python-secure_password_generator
-
-## Uso
+## 🚀 Uso
 
 Ejecuta el siguiente comando para abrir la aplicación:
 
+```sh
 python main.py
+```
 
-## Captura de pantalla
+## 📸 Capturas de pantalla
 
 ![image](https://github.com/user-attachments/assets/7e3e2492-0dba-4485-9f37-981cdbd74c90)
 
 ![image](https://github.com/user-attachments/assets/1b6eb397-bcce-4919-8206-56e681887852)
 
-## Contribución
+## 🤝 Contribuciones
 
 Si deseas mejorar este proyecto, ¡las contribuciones son bienvenidas! Puedes hacer un fork del repositorio y enviar un pull request con mejoras o nuevas funciones.
 
-## Licencia
+## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. ¡Úsalo y modifícalo libremente!
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente con fines personales y comerciales.
 
+### 💻 Desarrollado por Felipe Montero H.
